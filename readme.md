@@ -5,9 +5,8 @@
 This project focuses on classifying brain MRI scans to detect the presence and type of brain tumours using deep learning. It leverages a ResNet50-based Convolutional Neural Network (CNN) for image classification, trained and fine-tuned on a dataset of brain MRI images.
 
 ## Dataset
-The dataset used for this project is not directly included in this repository due to its large size. It consists of various brain MRI images categorized by tumour type (e.g., glioma, meningioma, pituitary) and 'no tumour' cases. The dataset can be found at: **[YOUR_DATASET_LINK_HERE]**
-
-**Note:** Please replace `YOUR_DATASET_LINK_HERE` with the actual URL to the dataset you used.
+The dataset used for this project is not directly included in this repository due to its large size. It consists of various brain MRI images categorized by tumour type (e.g., glioma, meningioma, pituitary) and 'no tumour' cases. The dataset can be found at: **[https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resource=download
+]**
 
 ## Models
 This repository includes two trained Keras models:
